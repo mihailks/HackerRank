@@ -1,4 +1,5 @@
 public class P20plusOut {
+    
     public static void main(String[] args) {
         String str = "12xy34";
         String word = "1";
