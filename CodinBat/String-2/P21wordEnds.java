@@ -3,11 +3,12 @@ public class P21wordEnds {
         String str = "abcXY123XYijk";
         String word = "XY";
     }
+
     public String wordEnds(String str, String word) {
-        String result="";
-for (int i=0;i<=str.length;i++){
-    
-}
+        String result = "";
+//        for (int i = 0; i <= str.length; i++) {
+//
+//        }
 
 
         return result;
