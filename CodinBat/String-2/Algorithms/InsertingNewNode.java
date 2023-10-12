@@ -9,8 +9,8 @@ import java.util.concurrent.*;
 import java.util.function.*;
 import java.util.regex.*;
 import java.util.stream.*;
-import static java.util.stream.Collectors.joining;
-import static java.util.stream.Collectors.toList;
+
+import static java.util.stream.Collectors.*;
 
 class DoublyLinkedListNode {
     public int data;
@@ -84,19 +84,26 @@ class ResultNew {
      */
 
     public static DoublyLinkedListNode sortedInsert(DoublyLinkedListNode llist, int data) {
-
         DoublyLinkedListNode toReturn = llist;
-
         DoublyLinkedListNode toInsert = new DoublyLinkedListNode(data);
-
-        while(llist!=null){
-            if (llist.data > data){
-
-                toInsert.next = llist;
+        if (llist == null) {
+            return toInsert;
+        }
+        while (llist != null) {
+            if (llist.data >= data && llist.prev != null) {
                 llist.prev.next = toInsert;
+                toInsert.next = llist;
                 toInsert.prev = llist.prev;
                 llist.prev = toInsert;
-
+                break;
+            } else if (llist.prev == null && llist.data > data) {
+                toInsert.next = llist;
+                llist.prev = toInsert;
+                return toInsert;
+            } else if (llist.next == null) {
+                llist.next = toInsert;
+                toInsert.prev = llist.next;
+                break;
             }
             llist = llist.next;
         }
@@ -131,9 +138,11 @@ public class InsertingNewNode {
 
                 DoublyLinkedListNode llist1 = ResultNew.sortedInsert(llist.head, data);
 
+
             } catch (IOException ex) {
                 throw new RuntimeException(ex);
             }
+
         });
 
         bufferedReader.close();
