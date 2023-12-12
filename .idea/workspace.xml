@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b40332bb-b99b-41d5-8d01-fff55cd08a58" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CodinBat/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/Algorithms/CycleDetection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/Algorithms/DArrayDS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/Algorithms/DiagonalDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/Algorithms/FindMergePointOfTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/Algorithms/InsertingNewNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/Algorithms/MaximumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/Algorithms/Ratio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/Algorithms/SolutionMini.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/Algorithms/SolutionNewNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/Algorithms/SolutionTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/Algorithms/Staircase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/P01doubleChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/P02countHi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/P03catDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/P04countCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/P05endOther.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/P08xyBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/P09mixString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/P10RepeatEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/P11repeatFront.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/P13prefixAgain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/P14xyzMiddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/P15getSandwich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/P16sameStarChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/P17oneTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/P18zipZap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/P19starOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/P20plusOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-2/P21wordEnds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-3/Warmup2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-3/countTriple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-3/countYZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-3/equalIsNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-3/gHappy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-3/maxBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-3/maxBlockREV01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-3/mirrorEnds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-3/notReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-3/sameEnds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-3/sumDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-3/sumNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-3/withoutString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-3/withoutString_rev01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/String-3/withoutString_rev02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/Warmup-2/altPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/Warmup-2/array667.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/Warmup-2/last2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/Warmup-2/sdfsd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/Warmup-2/stringX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/CodinBat/Warmup-2/stringYak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/HackerRank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/HackerRank/String/JavaStringTokens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodinBat/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRankMonths_03PreparationKit/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRankMonths_03PreparationKit/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRankMonths_03PreparationKit/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRankMonths_03PreparationKit/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRankMonths_03PreparationKit/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRankMonths_03PreparationKit/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRankMonths_03PreparationKit/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRankMonths_03PreparationKit/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRankMonths_03PreparationKit/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRankMonths_03PreparationKit/src/main/java/org/example/week_01/MiniMaSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRankMonths_03PreparationKit/src/main/java/org/example/week_01/PlusMinus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/Algorithms/CycleDetection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/Algorithms/DArrayDS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/Algorithms/DiagonalDifference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/Algorithms/FindMergePointOfTwoLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/Algorithms/InsertingNewNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/Algorithms/MaximumElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/Algorithms/Ratio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/Algorithms/SolutionMini.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/Algorithms/SolutionNewNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/Algorithms/SolutionTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/Algorithms/Staircase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/P01doubleChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/P02countHi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/P03catDog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/P04countCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/P05endOther.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/P08xyBalance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/P09mixString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/P10RepeatEnd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/P11repeatFront.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/P13prefixAgain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/P14xyzMiddle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/P15getSandwich.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/P16sameStarChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/P17oneTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/P18zipZap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/P19starOut.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/P20plusOut.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-2/P21wordEnds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-3/Warmup2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-3/countTriple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-3/countYZ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-3/equalIsNot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-3/gHappy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-3/maxBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-3/maxBlockREV01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-3/mirrorEnds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-3/notReplace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-3/sameEnds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-3/sumDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-3/sumNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-3/withoutString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-3/withoutString_rev01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/String-3/withoutString_rev02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/Warmup-2/altPairs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/Warmup-2/array667.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/Warmup-2/last2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/Warmup-2/sdfsd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/Warmup-2/stringX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodinBat/Warmup-2/stringYak.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/String/JavaStringTokens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2Vq6JBxTd9171ozKzA8Qcmg91jF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mihai/Documents/HackerRank&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mihai\Documents\HackerRank\CodinBat\String-2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MaximumElement (4)">
+    <configuration name="MaximumElement (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String2.Algorithms.MaximumElement" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String2.Algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumElement (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String2.Algorithms.MaximumElement" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String2.Algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumElement (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String2.Algorithms.MaximumElement" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String2.Algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumElement (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String2.Algorithms.MaximumElement" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String2.Algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String2.Algorithms.MaximumElement" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String2.Algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionNewNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String2.Algorithms.SolutionNewNode" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String2.Algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="HackerRank" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaximumElement (4)" />
+        <item itemvalue="Application.MaximumElement (3)" />
+        <item itemvalue="Application.MaximumElement (2)" />
+        <item itemvalue="Application.MaximumElement (1)" />
+        <item itemvalue="Application.MaximumElement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b40332bb-b99b-41d5-8d01-fff55cd08a58" name="Changes" comment="" />
+      <created>1695551188817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695551188817</updated>
+      <workItem from="1695551190918" duration="9125000" />
+      <workItem from="1696497989668" duration="4000" />
+      <workItem from="1697026923852" duration="18011000" />
+      <workItem from="1702410289766" duration="63000" />
+      <workItem from="1702410373231" duration="538000" />
+      <workItem from="1702411977081" duration="994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CodinBat/String-2/Algorithms/SolutionTime.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CodinBat/String-2/Algorithms/SolutionTime.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="llist.data" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

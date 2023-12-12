@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf8f4628-0d02-4a39-a587-9fa13e7fbc83" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/Algorithms/CycleDetection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/Algorithms/DArrayDS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/Algorithms/DiagonalDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/Algorithms/FindMergePointOfTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/Algorithms/InsertingNewNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/Algorithms/MaximumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/Algorithms/Ratio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/Algorithms/SolutionMini.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/Algorithms/SolutionNewNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/Algorithms/SolutionTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/Algorithms/Staircase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/P01doubleChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/P02countHi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/P03catDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/P04countCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/P05endOther.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/P08xyBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/P09mixString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/P10RepeatEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/P11repeatFront.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/P13prefixAgain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/P14xyzMiddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/P15getSandwich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/P16sameStarChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/P17oneTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/P18zipZap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/P19starOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/P20plusOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-2/P21wordEnds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-3/Warmup2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-3/countTriple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-3/countYZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-3/equalIsNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-3/gHappy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-3/maxBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-3/maxBlockREV01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-3/mirrorEnds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-3/notReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-3/sameEnds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-3/sumDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-3/sumNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-3/withoutString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-3/withoutString_rev01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/String-3/withoutString_rev02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/Warmup-2/altPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/Warmup-2/array667.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/Warmup-2/last2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/Warmup-2/sdfsd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/Warmup-2/stringX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/CodinBat/Warmup-2/stringYak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/HackerRank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/HackerRank/String/JavaStringTokens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodinBat/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week_01/MiniMaSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week_01/PlusMinus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week_01/TimeConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/Algorithms/CycleDetection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/Algorithms/DArrayDS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/Algorithms/DiagonalDifference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/Algorithms/FindMergePointOfTwoLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/Algorithms/InsertingNewNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/Algorithms/MaximumElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/Algorithms/Ratio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/Algorithms/SolutionMini.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/Algorithms/SolutionNewNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/Algorithms/SolutionTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/Algorithms/Staircase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/P01doubleChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/P02countHi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/P03catDog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/P04countCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/P05endOther.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/P08xyBalance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/P09mixString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/P10RepeatEnd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/P11repeatFront.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/P13prefixAgain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/P14xyzMiddle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/P15getSandwich.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/P16sameStarChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/P17oneTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/P18zipZap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/P19starOut.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/P20plusOut.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-2/P21wordEnds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-3/Warmup2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-3/countTriple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-3/countYZ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-3/equalIsNot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-3/gHappy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-3/maxBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-3/maxBlockREV01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-3/mirrorEnds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-3/notReplace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-3/sameEnds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-3/sumDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-3/sumNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-3/withoutString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-3/withoutString_rev01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/String-3/withoutString_rev02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/Warmup-2/altPairs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/Warmup-2/array667.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/Warmup-2/last2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/Warmup-2/sdfsd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/Warmup-2/stringX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodinBat/Warmup-2/stringYak.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank/String/JavaStringTokens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2ZSQWakOUxVLdeBrYtWoSWFLqnF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Solution03 (1)">
+    <configuration name="Solution01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week_01.Solution01" />
+      <module name="HackerRankMonths_03PreparationKit.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.week_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week_01.Solution02" />
+      <module name="HackerRankMonths_03PreparationKit.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.week_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week_01.Solution02" />
+      <module name="HackerRankMonths_03PreparationKit.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.week_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution03 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week_01.Solution03" />
+      <module name="HackerRankMonths_03PreparationKit.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.week_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week_01.Solution03" />
+      <module name="HackerRankMonths_03PreparationKit.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.week_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution03 (1)" />
+        <item itemvalue="Application.Solution03" />
+        <item itemvalue="Application.Solution02 (1)" />
+        <item itemvalue="Application.Solution02" />
+        <item itemvalue="Application.Solution01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf8f4628-0d02-4a39-a587-9fa13e7fbc83" name="Changes" comment="" />
+      <created>1702413033014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702413033014</updated>
+      <workItem from="1702413034014" duration="1768000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
