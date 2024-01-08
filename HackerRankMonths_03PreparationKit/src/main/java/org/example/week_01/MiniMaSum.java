@@ -29,9 +29,6 @@ class Result02 {
         }
 
         System.out.print(minSum + " " + maxSum);
-
-
-
     }
 
 }

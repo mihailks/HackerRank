@@ -20,6 +20,7 @@ public class CamelCase4 {
                 combineWords(input.get(1), input.get(2));
             }
         }
+
     }
 
     private static void combineWords(String type, String words) {
