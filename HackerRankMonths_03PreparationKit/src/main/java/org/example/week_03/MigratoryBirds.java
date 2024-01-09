@@ -10,23 +10,35 @@ class Result0305 {
 
 
     public static int migratoryBirds(List<Integer> arr) {
-        Map<Integer, Integer> result = new HashMap<>();
+        Map<Integer, Integer> map = new HashMap<>();
 
         for (int i = 0; i < arr.size(); i++) {
-            result.putIfAbsent(arr.get(i), 0);
-            result.put(arr.get(i), result.get(arr.get(i)) + 1);
+            map.putIfAbsent(arr.get(i), 0);
+            map.put(arr.get(i), map.get(arr.get(i)) + 1);
         }
 
-        List<Integer> collect = result.values()
-                .stream()
-                .sorted(Comparator.comparing(Integer::))
-                .collect(toList());
+        int ans = 0;
+        int id = 0;
+        for (int i : arr) {
+            if (map.containsKey(i)) {
+                map.put(i, map.getOrDefault(i, 0) + 1);
+            } else {
+                map.put(i, 1);
+            }
+        }
 
-        return collect.get(0);
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
 
+            if (entry.getValue() > ans) {
+                ans = entry.getValue();
+                id = entry.getKey();
+            }
+        }
+        return id;
     }
 
 }
+
 
 class Solution0305 {
     public static void main(String[] args) throws IOException {

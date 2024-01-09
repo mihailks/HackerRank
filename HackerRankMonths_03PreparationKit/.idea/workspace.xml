@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf8f4628-0d02-4a39-a587-9fa13e7fbc83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week_03/MigratoryBirds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week_03/SalesByMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week_03/SubarrayDivision2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week_03/XORStrings3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week_03/MigratoryBirds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week_03/MigratoryBirds.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,47 +55,8 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Solution0305">
-    <configuration name="Solution0302 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week_03.Solution0302" />
-      <module name="HackerRankMonths_03PreparationKit.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.week_03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution0303 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week_03.Solution0303" />
-      <module name="HackerRankMonths_03PreparationKit.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.week_03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution0303" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week_03.Solution0303" />
-      <module name="HackerRankMonths_03PreparationKit.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.week_03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution0305" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Solution0305 (5)">
+    <configuration name="Solution0305 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.week_03.Solution0305" />
       <module name="HackerRankMonths_03PreparationKit.main" />
       <extension name="coverage">
@@ -111,8 +69,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XORStrings3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week_03.XORStrings3" />
+    <configuration name="Solution0305 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week_03.Solution0305" />
+      <module name="HackerRankMonths_03PreparationKit.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.week_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution0305 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week_03.Solution0305" />
+      <module name="HackerRankMonths_03PreparationKit.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.week_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution0305 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week_03.Solution0305" />
+      <module name="HackerRankMonths_03PreparationKit.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.week_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution0305 (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week_03.Solution0305" />
       <module name="HackerRankMonths_03PreparationKit.main" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution0305" />
-        <item itemvalue="Application.Solution0303 (1)" />
-        <item itemvalue="Application.Solution0303" />
-        <item itemvalue="Application.XORStrings3" />
-        <item itemvalue="Application.Solution0302 (1)" />
+        <item itemvalue="Application.Solution0305 (5)" />
+        <item itemvalue="Application.Solution0305 (4)" />
+        <item itemvalue="Application.Solution0305 (3)" />
+        <item itemvalue="Application.Solution0305 (2)" />
+        <item itemvalue="Application.Solution0305 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +144,7 @@
       <workItem from="1702624514744" duration="624000" />
       <workItem from="1704390859684" duration="10816000" />
       <workItem from="1704714893005" duration="12567000" />
-      <workItem from="1704788711341" duration="4964000" />
+      <workItem from="1704788711341" duration="6389000" />
     </task>
     <servers />
   </component>
@@ -164,11 +161,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/week_02/lonelyInteger.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/week_03/MigratoryBirds.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
